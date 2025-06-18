@@ -1,6 +1,6 @@
 # pro-game
  HEAD
-Puzzle Game    NSANZINSHUTI IVAN
+Puzzle Game    NSANZINSHUTI IVAN LV 3 SOD A
 
 
 ## Project setup
